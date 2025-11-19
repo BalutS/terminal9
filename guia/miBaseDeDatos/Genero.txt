@@ -1,0 +1,13 @@
+10;Terror;true@
+30;Ciencia ficción;false@
+60;Supenso;true@
+78;otro mas;false@
+80;dos copoias;false@
+81;dgsdfsdgsdg;false@
+82;Le genero de don ramon;true@
+83;jfgghfjgfhj;false@
+84;Ja Ja Ja;false@
+85;JU JU JU;false;aquiles.png;c7a5f018-f061-412e-bd82-02c6cada264a_aquiles.png@
+86;ijjijijijiji;true;celular.jpg;79e41d10-c89e-4096-8e7c-48801d8ff721_celular.jpg@
+87;ghjghjghfj;true;ERROR: No seleccionó una imagen;48667d3e-e151-4fad-bbcc-9cdd753943ea_@
+88;ewewe;true;Agregar un título.png;73929da8-d4e3-452d-a9b1-3c40d420caeb_Agregar un título.png@
